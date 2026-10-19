@@ -1,4 +1,6 @@
-const { countdownTimer } = require('../src/countdown');
+
+// test/countdown.test.js
+const countdownTimer = require('../src/countdown');
 
 jest.useFakeTimers();
 
